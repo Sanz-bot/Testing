@@ -1,4 +1,4 @@
-const  XBOT = 'AMPIBI'; // Nama Bot Whatsapp
+const  XBOT = 'SanzBot'; // Nama Bot Whatsapp
 const instagram = 'https://instagram.com/affis_saputro123'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6282334297175'; // Nomor whatsapplu cok
 const aktif = 'Tergantung kuota'; // Kapan bot lu aktif
